@@ -1,1 +1,1 @@
-My first readme
+this is where i make my projects
